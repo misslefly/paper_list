@@ -1,3 +1,4 @@
-| 阅读时间 | 名称                                                         | 简介                       | 笔记                                                         |
-| -------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ |
-| 20200523 | [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583) | 文本分类任务上BERT微调实验 | [脑图](http://naotu.baidu.com/file/d5326fe5553fb22206d5687f598c88f3?token=eca20202e006c2b2) |
+| 阅读时间 | 名称                                                         | 简介                                                         | 笔记                                                         |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 20200523 | [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583) | 文本分类任务上BERT微调实验                                   | [脑图](http://naotu.baidu.com/file/d5326fe5553fb22206d5687f598c88f3?token=eca20202e006c2b2) |
+| 20200530 | [Generating Wikipedia by Summarizing Long Sequences](https://arxiv.org/abs/1801.10198) | WikiSum数据集，two-stage extractive-abstractive frameworl，T-D(Transformer-Decoder), T-DMCA(Transformer- Decoder Memory-compressed Attention) | [脑图](http://naotu.baidu.com/file/6ecc4419fe3454875d1b4168ed0b97bb?token=5699cb020d40f0b2) |
